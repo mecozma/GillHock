@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gill&amp;Hock</string>
+    <string name="address">38 Abbey Rd, St. Fintan\'s Park, \nKill of the Grange, Deansgrange, \nCo. Dublin</string>
+    <string name="logo_text"><![CDATA[Gill & Hock]]></string>
+    <string name="description_text">DELICATESSEN AND FISH SHOP</string>
+    <string name="opening_hours">8.00am - 8.00pm</string>
+    <string name="phone_number">01 230 3725</string>
+    <string name="website">https://www.gillandhock.ie/</string>
+    <string name="footer">© 2018</string>
+</resources>
